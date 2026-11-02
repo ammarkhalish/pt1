@@ -5,7 +5,7 @@ ob_start();
 <div class="card shadow border-0 border-start border-5 border-primary mb-4">
     <div class="card-body">
         <h2 class="mb-1">Order Details</h2>
-        <p class="text-muted mb-0">Order #O001 for Alice Johnson</p>
+        <p class="text-muted mb-0">Order #O001 for Ismail Badawi</p>
     </div>
 </div>
  
