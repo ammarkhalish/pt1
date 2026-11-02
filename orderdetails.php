@@ -13,8 +13,8 @@ ob_start();
     <div class="card-body">
         <div class="row g-3">
             <div class="col-md-4"><strong>Order Date</strong><br>2026-10-03</div>
-            <div class="col-md-4"><strong>Staff</strong><br>Jane Smith</div>
-            <div class="col-md-4"><strong>Customer</strong><br>Alice Johnson</div>
+            <div class="col-md-4"><strong>Staff</strong><br>Muhammad Adam</div>
+            <div class="col-md-4"><strong>Customer</strong><br>Ismail Badawi</div>
         </div>
     </div>
 </div>
